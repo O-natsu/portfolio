@@ -16,3 +16,5 @@ export const Header = React.memo((props: Props) => {
 const HeaderBase = styled.header`
 	height: 40px;
 `;
+
+Header.displayName = "Header";
