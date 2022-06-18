@@ -12,7 +12,7 @@
     "chromatic": "chromatic --project-token=CHROMATIC_PROJECT_TOKEN"
   },
   "dependencies": {
-    "@emotion/react": "11.5.0",
+    "@emotion/react": "11.9.3",
     "next": "11.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
